@@ -20,7 +20,7 @@ public class Bai12 {
             System.out.println(x[i]);
         }
         for (int i = x.length-1; i >=0 ; i--) {
-
+            System.out.println("Hello");
         }
         return map.get(num);
     }
